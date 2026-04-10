@@ -10,7 +10,7 @@
   [![MCP Supported](https://img.shields.io/badge/MCP-Compatible-orange.svg)](https://github.com/mcp)
   [![Strategic Level](https://img.shields.io/badge/Level-Master--Class-red.svg)](#)
 
-  [English Documentation](./protocols/en/STRATEGIC_COMMAND.md) | [简体中文文档](./protocols/CCDS_STRATEGIC_COMMAND.md)
+  [English](./protocols/en/STRATEGIC_COMMAND.md) | [简体中文](./protocols/CCDS_STRATEGIC_COMMAND.md)
 </div>
 
 ---
