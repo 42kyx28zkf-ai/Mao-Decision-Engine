@@ -93,7 +93,7 @@
 
 1. **Clone**:
    ```bash
-   git clone https://github.com/42kyx28zkf-ai/China-Combat-Decision-System
+   git clone https://github.com/Jammy-Advancing/China-Combat-Decision-System
    ```
 2. **Server (MCP)**:
    将以下配置加入您的 Claude/Cursor 配置文件：
